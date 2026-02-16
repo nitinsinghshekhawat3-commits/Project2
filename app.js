@@ -1,1 +1,5 @@
-const a=500;
+
+const aN=500;
+
+const aM=20;
+
